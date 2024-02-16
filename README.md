@@ -14,11 +14,11 @@ Mandrel Control is a web application solution designed for controlling servo mot
 
 ## How to Run
 ### Hardware Setup
-1. Connect your servo's PWM (usually orange) wire to the RPi's GPIO pin 15 (change accordingly in `app.py` if different).
+1. Connect your servo's PWM (usually orange) wire to the RPi's GPIO pin 12 (change accordingly in `app.py` if different).
 2. Connect brown wire to GND and red wire to power.
 3. Set up an external display via HDMI.
 
-### Software
+### Software Setup
 1. Clone the repository:
 
 `$ git clone https://github.com/jatanjay/mandrel.git`

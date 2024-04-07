@@ -42,5 +42,5 @@ Open up a web browser; the Flask app is served on `localhost` or `'0.0.0.0'` and
 Refer to the [User Manual](https://github.com/jatanjay/mandrel_control/blob/06e5799c59d16e01bc159eb8191fecf4c6ca651c/static/user_manual.pdf) for detailed instructions.
 
 [repo](https://github.com/jatanjay/mandrel) \
-[home](https://jatanjay.github.io/jatanjay/projects/)
+[home](https://jatanjay.github.io/projects/)
 
